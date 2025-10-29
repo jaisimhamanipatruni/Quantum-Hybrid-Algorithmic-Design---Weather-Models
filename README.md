@@ -1,6 +1,7 @@
 # Quantum-Classical Hybrid Cyclone Prediction Model 
 
 This repository contains a reproducible demo that explores how hybrid quantum–classical models can be applied to cyclone prediction tasks.
+# Author : Jaisimha Manipatruni 
 
 **Key components**
 - Synthetic yet physically-inspired dataset generator.
