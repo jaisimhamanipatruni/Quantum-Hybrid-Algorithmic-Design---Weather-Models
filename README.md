@@ -1,4 +1,4 @@
-# Quantum-Enhanced Cyclone Prediction (Demo)
+# Quantum-Enhanced Cyclone Prediction 
 
 This repository contains a reproducible demo that explores how hybrid quantum–classical models can be applied to cyclone prediction tasks.
 
@@ -13,7 +13,8 @@ This repository contains a reproducible demo that explores how hybrid quantum–
 > This project is intended as a research/demo pipeline. It uses simulators (`default.qubit`) for the quantum components. To test on hardware you must adapt backends and implement shot-based kernel estimation/noise mitigation.
 > 
 <p align="center">
-  <img src="results" width="70%">
-  <br><em>Figure 2: ROC–AUC comparison between classical and quantum-enhanced models</em>
+  <img src="CQCyc.png" width="70%">
+  
+  <br><em>Figure : Comparison between classical and quantum-enhanced models</em>
 </p>
 
