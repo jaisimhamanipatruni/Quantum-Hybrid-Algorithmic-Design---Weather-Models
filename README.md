@@ -11,4 +11,9 @@ This repository contains a reproducible demo that explores how hybrid quantum–
 - Evaluation: Accuracy, ROC-AUC, calibration, bootstrap significance tests.
 
 > This project is intended as a research/demo pipeline. It uses simulators (`default.qubit`) for the quantum components. To test on hardware you must adapt backends and implement shot-based kernel estimation/noise mitigation.
+> 
+<p align="center">
+  <img src="results" width="70%">
+  <br><em>Figure 2: ROC–AUC comparison between classical and quantum-enhanced models</em>
+</p>
 
