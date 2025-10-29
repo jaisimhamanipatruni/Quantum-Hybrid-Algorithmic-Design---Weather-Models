@@ -1,4 +1,4 @@
-# Quantum-Enhanced Cyclone Prediction 
+# Quantum-Classical Hybrid Cyclone Prediction Model 
 
 This repository contains a reproducible demo that explores how hybrid quantum–classical models can be applied to cyclone prediction tasks.
 
@@ -16,5 +16,10 @@ This repository contains a reproducible demo that explores how hybrid quantum–
   <img src="CQCyc.png" width="70%">
   
   <br><em>Figure : Comparison between classical and quantum-enhanced models</em>
+</p>
+<p align="center">
+  <img src="Qcyc.png" width="70%">
+  
+  <br><em>Figure :Weather Visual Models</em>
 </p>
 
